@@ -1,0 +1,3 @@
+[submodule "HelloWorld"]
+	path = HelloWorld
+	url = git@github.com:dudasl/HelloWorld.git
