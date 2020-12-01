@@ -1,0 +1,6 @@
+# Application version number usually consists of four numbers delimited by dot (.):
+# - first number represents the major version
+# - second number represents the minor version 
+# - third number represents patch number
+# - fourth number represents build number
+version: 1.0.0.1
